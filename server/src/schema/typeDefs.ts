@@ -24,10 +24,10 @@ link: String
 
 input saveBookInput {
   bookId: String
-  authors: [String]!
-  description: String!
+  authors: [String]
+  description: String
   title: String!
-  image: String!
+  image: String
   link: String
 }
 
